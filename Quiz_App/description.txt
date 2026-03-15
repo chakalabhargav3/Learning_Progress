@@ -1,0 +1,11 @@
+It is a quiz app.
+
+It consists of five questions. It is like a questions and answers.
+
+Generates the score of the quiz will generate.
+
+One is POJO class
+
+One is Service class
+
+One is Main class
