@@ -40,10 +40,6 @@ public class Student{
             // TODO: handle exception
         }
 
-        for(int i =0 ;i<){
-
-        }
-
         
     }
 
