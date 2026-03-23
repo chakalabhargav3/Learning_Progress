@@ -34,10 +34,14 @@ public class Student{
         s[3] = s4;
 
         try {
+            for(Student i : s){
+                System.out.println(i.id);
+                System.out.println(i.name);
+                System.out.println(i.salary);
+            }
             
         } catch (Exception e) {
             e.printStackTrace();
-            // TODO: handle exception
         }
 
         

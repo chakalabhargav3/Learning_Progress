@@ -16,4 +16,10 @@ public class B implements A {
         };
         a.test();
     }
+
+    @Override
+    public void test() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'test'");
+    }
 }
